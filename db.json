@@ -1,4 +1,4 @@
-{
+{00001:{
   "brands": [
     {
       "brandLogoUrl": "https://testdomain.jp/logo/brand1.png",
@@ -51,4 +51,5 @@
       "specGroup": "仕様分類2"
     }
   ]
+}
 }
