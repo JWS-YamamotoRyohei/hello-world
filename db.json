@@ -1,4 +1,4 @@
-{00001:{
+{
   "brands": [
     {
       "brandLogoUrl": "https://testdomain.jp/logo/brand1.png",
@@ -9,47 +9,8 @@
       "brandName": "ブランド2"
     }
   ],
-  "categories": [
-    {
-      "categoryImageUrl": "https://testdomain.jp/cateogiry/cat1.png",
-      "categoryName": "カテゴリ1"
-    },
-    {
-      "categoryImageUrl": "https://testdomain.jp/cateogiry/cat2.png",
-      "categoryName": "カテゴリ2"
-    }
-  ],
   "description": "商品説明",
   "introductionVideoUrl": "https://www.youtube.com/watch?v=FqvlfZDL1mE",
   "itemName": "輪舞",
   "itemPrice": 4800000,
-  "specs": [
-    {
-      "specDetail": [
-        {
-          "specDetailContent": "仕様内容",
-          "specDetailName": "仕様名1-1"
-        },
-        {
-          "specDetailContent": "仕様内容",
-          "specDetailName": "仕様名1-2"
-        }
-      ],
-      "specGroup": "仕様分類1"
-    },
-    {
-      "specDetail": [
-        {
-          "specDetailContent": "仕様内容",
-          "specDetailName": "仕様名2-1"
-        },
-        {
-          "specDetailContent": "仕様内容",
-          "specDetailName": "仕様名2-2"
-        }
-      ],
-      "specGroup": "仕様分類2"
-    }
-  ]
-}
 }
