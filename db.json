@@ -1,220 +1,54 @@
 {
-  "Items": {
-    "00001": {
-      "brands": [
-        {
-          "brandLogoUrl": "https://testdomain.jp/logo/brand1.png",
-          "brandName": "ブランド1"
-        },
-        {
-          "brandLogoUrl": "https://testdomain.jp/logo/brand2.png",
-          "brandName": "ブランド2"
-        }
-      ],
-      "categories": [
-        {
-          "categoryImageUrl": "https://testdomain.jp/cateogiry/cat1.png",
-          "categoryName": "カテゴリ1"
-        },
-        {
-          "categoryImageUrl": "https://testdomain.jp/cateogiry/cat2.png",
-          "categoryName": "カテゴリ2"
-        }
-      ],
-      "description": "商品説明",
-      "introductionVideoUrl": "https://www.youtube.com/watch?v=FqvlfZDL1mE",
-      "itemName": "輪舞",
-      "itemPrice": 4800000,
-      "specs": [
-        {
-          "specDetail": [
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名1-1"
-            },
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名1-2"
-            }
-          ],
-          "specGroup": "仕様分類1"
-        },
-        {
-          "specDetail": [
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名2-1"
-            },
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名2-2"
-            }
-          ],
-          "specGroup": "仕様分類2"
-        }
-      ]
+  "brands": [
+    {
+      "brandLogoUrl": "https://testdomain.jp/logo/brand1.png",
+      "brandName": "ブランド1"
     },
-    "00002": {
-      "brands": [
-        {
-          "brandLogoUrl": "https://testdomain.jp/logo/brand1.png",
-          "brandName": "ブランド1"
-        },
-        {
-          "brandLogoUrl": "https://testdomain.jp/logo/brand2.png",
-          "brandName": "ブランド2"
-        }
-      ],
-      "categories": [
-        {
-          "categoryImageUrl": "https://testdomain.jp/cateogiry/cat1.png",
-          "categoryName": "カテゴリ1"
-        },
-        {
-          "categoryImageUrl": "https://testdomain.jp/cateogiry/cat2.png",
-          "categoryName": "カテゴリ2"
-        }
-      ],
-      "description": "商品説明",
-      "introductionVideoUrl": "https://www.youtube.com/watch?v=FqvlfZDL1mE",
-      "itemName": "息吹",
-      "itemPrice": 880000,
-      "specs": [
-        {
-          "specDetail": [
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名1-1"
-            },
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名1-2"
-            }
-          ],
-          "specGroup": "仕様分類1"
-        },
-        {
-          "specDetail": [
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名2-1"
-            },
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名2-2"
-            }
-          ],
-          "specGroup": "仕様分類2"
-        }
-      ]
-    },
-    "00003": {
-      "brands": [
-        {
-          "brandLogoUrl": "https://testdomain.jp/logo/brand1.png",
-          "brandName": "ブランド1"
-        },
-        {
-          "brandLogoUrl": "https://testdomain.jp/logo/brand2.png",
-          "brandName": "ブランド2"
-        }
-      ],
-      "categories": [
-        {
-          "categoryImageUrl": "https://testdomain.jp/cateogiry/cat1.png",
-          "categoryName": "カテゴリ1"
-        },
-        {
-          "categoryImageUrl": "https://testdomain.jp/cateogiry/cat2.png",
-          "categoryName": "カテゴリ2"
-        }
-      ],
-      "description": "商品説明",
-      "introductionVideoUrl": "https://www.youtube.com/watch?v=FqvlfZDL1mE",
-      "itemName": "悠久",
-      "itemPrice": 4800000,
-      "specs": [
-        {
-          "specDetail": [
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名1-1"
-            },
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名1-2"
-            }
-          ],
-          "specGroup": "仕様分類1"
-        },
-        {
-          "specDetail": [
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名2-1"
-            },
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名2-2"
-            }
-          ],
-          "specGroup": "仕様分類2"
-        }
-      ]
-    },
-    "template": {
-      "brands": [
-        {
-          "brandLogoUrl": "https://testdomain.jp/logo/brand1.png",
-          "brandName": "ブランド1"
-        },
-        {
-          "brandLogoUrl": "https://testdomain.jp/logo/brand2.png",
-          "brandName": "ブランド2"
-        }
-      ],
-      "categories": [
-        {
-          "categoryImageUrl": "https://testdomain.jp/cateogiry/cat1.png",
-          "categoryName": "カテゴリ1"
-        },
-        {
-          "categoryImageUrl": "https://testdomain.jp/cateogiry/cat2.png",
-          "categoryName": "カテゴリ2"
-        }
-      ],
-      "description": "商品説明",
-      "introductionVideoUrl": "https://www.youtube.com/watch?v=FqvlfZDL1mE",
-      "itemName": "商品名",
-      "itemPrice": 999999,
-      "specs": [
-        {
-          "specDetail": [
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名1-1"
-            },
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名1-2"
-            }
-          ],
-          "specGroup": "仕様分類1"
-        },
-        {
-          "specDetail": [
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名2-1"
-            },
-            {
-              "specDetailContent": "仕様内容",
-              "specDetailName": "仕様名2-2"
-            }
-          ],
-          "specGroup": "仕様分類2"
-        }
-      ]
+    {
+      "brandLogoUrl": "https://testdomain.jp/logo/brand2.png",
+      "brandName": "ブランド2"
     }
-  }
+  ],
+  "categories": [
+    {
+      "categoryImageUrl": "https://testdomain.jp/cateogiry/cat1.png",
+      "categoryName": "カテゴリ1"
+    },
+    {
+      "categoryImageUrl": "https://testdomain.jp/cateogiry/cat2.png",
+      "categoryName": "カテゴリ2"
+    }
+  ],
+  "description": "商品説明",
+  "introductionVideoUrl": "https://www.youtube.com/watch?v=FqvlfZDL1mE",
+  "itemName": "輪舞",
+  "itemPrice": 4800000,
+  "specs": [
+    {
+      "specDetail": [
+        {
+          "specDetailContent": "仕様内容",
+          "specDetailName": "仕様名1-1"
+        },
+        {
+          "specDetailContent": "仕様内容",
+          "specDetailName": "仕様名1-2"
+        }
+      ],
+      "specGroup": "仕様分類1"
+    },
+    {
+      "specDetail": [
+        {
+          "specDetailContent": "仕様内容",
+          "specDetailName": "仕様名2-1"
+        },
+        {
+          "specDetailContent": "仕様内容",
+          "specDetailName": "仕様名2-2"
+        }
+      ],
+      "specGroup": "仕様分類2"
+    }
+  ]
 }
